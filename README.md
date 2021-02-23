@@ -25,11 +25,15 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Objective-C](https://img.shields.io/badge/-Objective-C-333333?style=flat&logo=objective-c)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+
+
+
 
 #### Database:
 
