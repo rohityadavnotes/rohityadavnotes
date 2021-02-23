@@ -5,6 +5,8 @@
 </h1>
 
 <img align="right" alt="GIF" src="assets/about.gif" width="400px" height="280px"/>
+<br/>
+<hr/>
 
 ### 🧐 About
 - 🏄‍ Android Developer who loves to build Applications.
@@ -14,6 +16,9 @@
 - 🌱 I love to learn new things and ready to help others.
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
+
+<br />
+<hr />
 
 ### Connect with me :
 
