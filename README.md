@@ -21,7 +21,7 @@
 - 📫 How to reach me: mail me at [rohityadavnotes@gmail.com](mailto:rohityadavnotes@gmail.com)
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
 
-### Connect with me :
+## Connect with me
 
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -37,7 +37,7 @@
 [Medium]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Stackoverflow]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 
-### Technical skills :
+## Technical skills
 
 #### Languages :
 
