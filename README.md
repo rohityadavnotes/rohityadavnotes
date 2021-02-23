@@ -3,7 +3,7 @@
        src="assets/hello.gif"
        alt="hello-gif"
        height="150px">
-  <br>
+
   <img
        src="assets/wave.gif"
        alt="waving hand"
