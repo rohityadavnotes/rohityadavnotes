@@ -44,11 +44,16 @@
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-#### libraries
+#### libraries :
 
 ![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
+![RxJava](http://img.shields.io/badge/-dagger-333333?style=flat&logo=rxjava)
+![RxAndroid](http://img.shields.io/badge/-dagger-333333?style=flat&logo=rxandroid)
+![RxKotlin](http://img.shields.io/badge/-dagger-333333?style=flat&logo=rxkotlin)
+![Retrofit](http://img.shields.io/badge/-Retrofit-333333?style=flat&logo=retrofit)
 
-#### Tools:
+#### Tools :
+
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Gradle](http://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
 ![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
