@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⏳ I’m currently learning
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
