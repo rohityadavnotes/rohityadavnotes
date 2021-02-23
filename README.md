@@ -21,11 +21,15 @@
 
 #### Languages:
 
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 
 #### Database:
 
@@ -64,12 +68,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+
 
 
 ### 🗜 Some of the technologies I have worked with
