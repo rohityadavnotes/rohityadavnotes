@@ -15,31 +15,22 @@
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
 
-<br />
-<hr />
-
 ### Connect with me :
 
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
-[<img height="20" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
+[<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
+[<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
+[<img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
+[<img height="25" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
+[<img height="25" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
 
-<br />
-<hr />
-
-[Twitter]: https://twitter.com/KumarrAnkitt
-[youtube]: https://www.youtube.com/channel/UCalpz0wG0xvNXcVYasg1pEA
-[Hashnode]: http://kumarankit.hashnode.dev/
-[gmail]: mailto:ankitdroiddeveloper@gmail.com/
+[gmail]: mailto:rohityaddavnotes@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
+[Facebook]: https://www.facebook.com/ankitoid
+[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Medium]: https://ankitdeveloper.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/3282461
-[Facebook]: https://www.facebook.com/ankitoid
-[Telegram]: https://t.me/AnkKumar
-[Dev]: https://dev.to/ankitkumar
+
 ### Technical skills :
 
 #### Languages :
