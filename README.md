@@ -18,9 +18,7 @@
 ### Connect with me :
 
 ### Technical skills :
-
 #### Languages :
-
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -31,30 +29,23 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-
 #### Database:
-
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=realm)
 ![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-
 #### Frameworks :
-
 ![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
 #### libraries :
-
 ![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
 ![RxJava](http://img.shields.io/badge/-RxJava-333333?style=flat&logo=reactivex)
 ![RxAndroid](http://img.shields.io/badge/-RxAndroid-333333?style=flat&logo=reactivex)
 ![RxKotlin](http://img.shields.io/badge/-RxKotlin-333333?style=flat&logo=reactivex)
 ![Retrofit](http://img.shields.io/badge/-Retrofit-333333?style=flat&logo=square)
-
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
 #### Tools :
 
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
