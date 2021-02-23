@@ -96,3 +96,6 @@
 
 ![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
 ![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rohityadavnotes&theme=dark&layout=compact)
+
+![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=luthfiarifin&theme=dark&show_icons=true)
+![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=luthfiarifin&theme=dark&layout=compact)
