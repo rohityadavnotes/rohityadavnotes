@@ -7,13 +7,24 @@
 <img align="right" alt="GIF" src="assets/about.gif" width="400px" height="280px"/>
 
 ### 🧐 About
-- 🏄‍ Android Developer who loves to build Applications.
+
+- 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
 - 😄 I usually like to make open source contributions.
-- 🤔 I’m looking for help with data structures and algorithms.
-- 🔭 I'm core team member of DSC JSS.
-- 🌱 I love to learn new things and ready to help others.
-- 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
-- 👯 And Many More...
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+- ⚡ Fun fact: I love to cook and ride motorbike/cars
+
+## ⏳ I’m currently learning ...
+
+![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
 
 ## I'm a Developer, and Influencer!
 
