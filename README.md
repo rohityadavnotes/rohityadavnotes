@@ -30,6 +30,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 
 #### Database:
