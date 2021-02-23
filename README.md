@@ -15,8 +15,7 @@
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
 
-### Connect with me :
-I'm <a href="https://www.linkedin.com/in/rohit-yadav-say-hello/">Rohit Yadav</a>
+## Connect with me :
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
@@ -31,7 +30,7 @@ I'm <a href="https://www.linkedin.com/in/rohit-yadav-say-hello/">Rohit Yadav</a>
 [Medium]: https://ankitdeveloper.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/3282461
 
-### Technical skills :
+## Technical skills :
 
 #### Languages :
 
@@ -88,7 +87,7 @@ I'm <a href="https://www.linkedin.com/in/rohit-yadav-say-hello/">Rohit Yadav</a>
 ![iOS](http://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
-### ⏳ I’m currently learning ...
+## ⏳ I’m currently learning ...
 
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
