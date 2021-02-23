@@ -19,7 +19,7 @@
 
 ### Technical skills :
 
-#### Languages:
+#### Languages :
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
@@ -33,7 +33,8 @@
 
 #### Database:
 
-
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 #### Frameworks :
