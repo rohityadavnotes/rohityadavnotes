@@ -9,38 +9,19 @@
 ### 🧐 About
 
 - 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
-- 😄 I usually like to make open source contributions.
-- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⏳ I’m currently learning
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
+- 💬 Ask me about anything related to Android development  
+- 📫 How to reach me: mail me at [rohityadavnotes@gmail.com](mailto:rohityadavnotes@gmail.com)
 
-
-### Hi👋 I'm Nealyang
-
-- 🔭 I’m currently working on Alibaba group
-- 🌱 I’m currently learning React,JavaScript
-
-## I'm a Developer, and Influencer!
-
-- 🔭 I’m currently working as a Lead Developer at [KONE](https://www.kone.com/en/)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook and ride motorbike/cars
-
-
-- 💬 Ask me about anything and everything!  fgsdfgsd          fgsdfgsdfgsd fsdfgsdfgwerrer rerewrttyerty gdfsgsd rewrterty werwertwer nrtwerte nrtwertwe 
-- 📫 How to reach me: mail me at [dheeraj.kotwani41@gmail.com](mailto:dheeraj.kotwani41@gmail.com)
-- ⚡ Fun fact: I usually like coding at nights! 
-
-
-
-
-## Connect with me :
+### Connect with me :
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
@@ -55,7 +36,7 @@
 [Medium]: https://ankitdeveloper.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/3282461
 
-## Technical skills :
+### Technical skills :
 
 #### Languages :
 
@@ -111,11 +92,3 @@
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![iOS](http://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-
-## ⏳ I’m currently learning ...
-
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
-![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
