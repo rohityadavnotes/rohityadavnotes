@@ -10,36 +10,23 @@
 
 - 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
 - 😄 I usually like to make open source contributions.
-- 🌱 I’m currently learning <img height="15" src="https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin">
+- 🌱 I’m currently learning
+![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
+![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
 
-## ⏳ I’m currently learning ...
 
-![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
-![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+### Hi👋 I'm Nealyang
 
-
-## Connect with me :
-[<img height="10" src="https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin">][gmail] 
-[<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
-[<img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
-[<img height="25" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
-[<img height="25" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
-
-[gmail]: mailto:rohityaddavnotes@gmail.com/
-[Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
-[Facebook]: https://www.facebook.com/ankitoid
-[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
-[Medium]: https://ankitdeveloper.medium.com/
-[Stackoverflow]: https://stackoverflow.com/users/3282461
+- 🔭 I’m currently working on Alibaba group
+- 🌱 I’m currently learning React,JavaScript
 
 ## I'm a Developer, and Influencer!
 
@@ -55,10 +42,6 @@
 - ⚡ Fun fact: I usually like coding at nights! 
 
 
-### Hi👋 I'm Nealyang
-
-- 🔭 I’m currently working on Alibaba group
-- 🌱 I’m currently learning React,JavaScript
 
 
 ## Connect with me :
