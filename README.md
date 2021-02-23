@@ -33,7 +33,7 @@
 [gmail]: mailto:rohityaddavnotes@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Facebook]: https://www.linkedin.com/in/rohit-yadav-say-hello/
-[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Twitter]: https://twitter.com/rohit24yadav
 [Medium]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 [Stackoverflow]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 
@@ -97,3 +97,4 @@
 ![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
  <br>
 ![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rohityadavnotes&theme=dark&layout=compact)
+
