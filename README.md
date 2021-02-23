@@ -15,6 +15,26 @@
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
 
+## I'm a Developer, and Influencer!
+
+- 🔭 I’m currently working as a Lead Developer at [KONE](https://www.kone.com/en/)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to cook and ride motorbike/cars
+
+
+- 💬 Ask me about anything and everything!  fgsdfgsd          fgsdfgsdfgsd fsdfgsdfgwerrer rerewrttyerty gdfsgsd rewrterty werwertwer nrtwerte nrtwertwe 
+- 📫 How to reach me: mail me at [dheeraj.kotwani41@gmail.com](mailto:dheeraj.kotwani41@gmail.com)
+- ⚡ Fun fact: I usually like coding at nights! 
+
+
+### Hi👋 I'm Nealyang
+
+- 🔭 I’m currently working on Alibaba group
+- 🌱 I’m currently learning React,JavaScript
+
+
 ## Connect with me :
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
