@@ -26,6 +26,21 @@
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 
+## Connect with me :
+[<img height="10" src="https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin">][gmail] 
+[<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
+[<img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][Twitter]
+[<img height="25" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
+[<img height="25" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
+
+[gmail]: mailto:rohityaddavnotes@gmail.com/
+[Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
+[Facebook]: https://www.facebook.com/ankitoid
+[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Medium]: https://ankitdeveloper.medium.com/
+[Stackoverflow]: https://stackoverflow.com/users/3282461
+
 ## I'm a Developer, and Influencer!
 
 - 🔭 I’m currently working as a Lead Developer at [KONE](https://www.kone.com/en/)
