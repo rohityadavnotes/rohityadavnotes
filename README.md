@@ -17,9 +17,9 @@
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-- ⚡ Fun fact: I love to cook and ride motorbike/cars
 - 💬 Ask me about anything related to Android development  
 - 📫 How to reach me: mail me at [rohityadavnotes@gmail.com](mailto:rohityadavnotes@gmail.com)
+- ⚡ Fun fact: I love to cook and ride motorbike/cars
 
 ### Connect with me :
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
@@ -30,11 +30,11 @@
 [<img height="25" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
 
 [gmail]: mailto:rohityaddavnotes@gmail.com/
-[Linkedin]: https://www.linkedin.com/in/kumarankitkumar/
-[Facebook]: https://www.facebook.com/ankitoid
-[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
-[Medium]: https://ankitdeveloper.medium.com/
-[Stackoverflow]: https://stackoverflow.com/users/3282461
+[Linkedin]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Facebook]: 
+[Twitter]: 
+[Medium]: 
+[Stackoverflow]: 
 
 ### Technical skills :
 
@@ -84,7 +84,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
-#### Platforms :
+##### Platforms :
 
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
