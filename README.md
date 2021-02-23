@@ -22,6 +22,7 @@
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
 
 ### Connect with me :
+
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src="https://img.shields.io/badge/Facebook-036be4.svg?&style=fflat&logo=facebook&logoColor=white">][Facebook]
@@ -65,7 +66,7 @@
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-#### libraries :
+#### Libraries :
 
 ![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
 ![RxJava](http://img.shields.io/badge/-RxJava-333333?style=flat&logo=reactivex)
