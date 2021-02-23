@@ -46,8 +46,8 @@
 
 #### libraries :
 
-![Jetpack Compose](http://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=android)
-![RxJava](http://img.shields.io/badge/-RxJava-333333?style=flat&logo=rxjava)
+![Jetpack Compose](http://img.shields.io/badge/-Retrofit%20Compose-333333?style=flat&logo=retrofit)
+![RxJava](http://img.shields.io/badge/-RxJava-333333?style=flat&logo=reactivex)
 ![RxAndroid](http://img.shields.io/badge/-RxAndroid-333333?style=flat&logo=rxandroid)
 ![RxKotlin](http://img.shields.io/badge/-RxKotlin-333333?style=flat&logo=rxkotlin)
 ![Retrofit](http://img.shields.io/badge/-Retrofit-333333?style=flat&logo=retrofit)
