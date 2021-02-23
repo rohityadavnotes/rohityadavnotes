@@ -31,10 +31,10 @@
 
 [gmail]: mailto:rohityaddavnotes@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/rohit-yadav-say-hello/
-[Facebook]: 
-[Twitter]: 
-[Medium]: 
-[Stackoverflow]: 
+[Facebook]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Twitter]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Medium]: https://www.linkedin.com/in/rohit-yadav-say-hello/
+[Stackoverflow]: https://www.linkedin.com/in/rohit-yadav-say-hello/
 
 ### Technical skills :
 
