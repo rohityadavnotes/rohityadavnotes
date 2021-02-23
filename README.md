@@ -9,14 +9,14 @@
 ### 🧐 About
 
 - 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⏳ I’m currently learning
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything related to Android development  
 - 📫 How to reach me: mail me at [rohityadavnotes@gmail.com](mailto:rohityadavnotes@gmail.com)
 - ⚡ Fun fact: I love to cook and ride motorbike/cars
