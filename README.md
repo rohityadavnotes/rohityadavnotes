@@ -58,7 +58,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
 
-![Eclipse](http://img.shields.io/badge/-eclipse ide-333333?style=flat&logo=jetbrains)
+![Eclipse](http://img.shields.io/badge/-eclipse-333333?style=flat&logo=eclipse)
 #### Platforms :
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
