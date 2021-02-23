@@ -3,10 +3,10 @@
   <br>
   <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/rohit-yadav-say-hello/">Rohit Yadav</a>
 </h1>
-
-<img align="right" alt="GIF" src="assets/about.gif" width="400px" height="280px"/>
 <br/>
 <hr/>
+<img align="right" alt="GIF" src="assets/about.gif" width="400px" height="280px"/>
+
 
 ### 🧐 About
 - 🏄‍ Android Developer who loves to build Applications.
