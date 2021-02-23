@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Android Developer at [Bada Software Pvt Ltd](http://badasoftware.com/)
 - 😄 I usually like to make open source contributions.
-- 🌱 I’m currently learning ![Kotlin](<img height="15" src="https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin">)
+- 🌱 I’m currently learning <img height="15" src="https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin">
 ![Objective C](https://img.shields.io/badge/-Objective%20C-333333?style=flat&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
