@@ -26,7 +26,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-kotlin-333333?style=flat&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
@@ -35,16 +35,14 @@
 
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Realm](https://img.shields.io/badge/-Realm-333333?style=flat&logo=realm)
 ![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 #### Frameworks :
+
 ![Dagger](http://img.shields.io/badge/-dagger-333333?style=flat&logo=android)
 ![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
-
-![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Flutter](http://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 #### libraries
 
