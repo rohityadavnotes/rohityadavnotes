@@ -95,6 +95,5 @@
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 ![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
- <br>
 ![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rohityadavnotes&theme=dark&layout=compact)
 
