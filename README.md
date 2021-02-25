@@ -95,4 +95,9 @@
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rohityadavnotes" alt="rohityadavnotes' Stats" /><!-- Force inline -->
+ <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohityadavnotes" alt="rohityadavnotes' Top Langs" /> <!-- Force inline -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55" alt="MrWhoKnows' Stats" /><!-- Force inline -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhoknows55" alt="MrWhoKnows' Top Langs" /> <!-- Force inline -->
