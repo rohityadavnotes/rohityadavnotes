@@ -95,3 +95,8 @@
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 ![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55" alt="MrWhoKnows' Stats" /><!-- Force inline -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhoknows55" alt="MrWhoKnows' Top Langs" /> <!-- Force inline -->
+
