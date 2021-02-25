@@ -93,7 +93,7 @@
 ![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![iOS](http://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-
-![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
 ![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rohityadavnotes&theme=dark&layout=compact)
+![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rohityadavnotes&theme=dark&show_icons=true)
+
 
