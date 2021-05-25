@@ -98,6 +98,11 @@
  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohityadavnotes" alt="rohityadavnotes' Top Langs" /> <!-- Force inline -->
 
+### ANDROID STUDIO PLUGIN (File -> Settings -> Plugins -> Type / to see options)
+
+- Generate Kotlin data classes from JSON (https://plugins.jetbrains.com/plugin/10054-generate-kotlin-data-classes-from-json)
+- JSON To Kotlin Class ​(JsonToKotlinClass)​ (https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+
 ### IMP LINK
 
 - https://github.com/rohityadavnotes/JavaToKotlin
