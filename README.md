@@ -103,6 +103,20 @@
 - Generate Kotlin data classes from JSON (https://plugins.jetbrains.com/plugin/10054-generate-kotlin-data-classes-from-json)
 - JSON To Kotlin Class ​(JsonToKotlinClass)​ (https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
 
+### ONLINE CREATE POJO
+
+- https://json2kt.com/ (for kotlin)
+- https://www.jsonschema2pojo.org/ (for java)
+
+### ONLINE API
+
+- https://jsonplaceholder.typicode.com/
+- https://reqres.in/
+
+### JSON VALIDATOR
+
+- https://jsonlint.com/
+
 ### IMP LINK
 
 - https://github.com/rohityadavnotes/JavaToKotlin
