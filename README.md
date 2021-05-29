@@ -117,6 +117,11 @@
 
 - https://jsonlint.com/
 
+### AMIT SHEKHAR FAST ANDROID NETWORKING
+
+- https://github.com/amitshekhariitbhu/Fast-Android-Networking
+- https://us.hidester.com/proxy.php?u=eJwBigB1%2F3M6MTI5OiIHjUtaGI3BKvNxYEHkX1tjhW5FfkHV3NKTWhjvmrhkUQZ8CnIplGqRD%2Bc4pN1quzSYqA99O%2FWuiljcshF%2B6IzOb%2Fq0bwa7iuNtC9Z%2BrRMg3e8lAbATx7j2Lf7QCfjdE26WEcmiwylX3rvMgZcSkWnuzsfWx2onHKToiiHbTq%2FgfnUiO3P%2FRGc%3D&b=7&f=norefer
+
 ### IMP LINK
 
 - https://github.com/rohityadavnotes/JavaToKotlin
