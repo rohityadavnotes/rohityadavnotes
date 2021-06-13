@@ -150,5 +150,10 @@
 
 - https://github.com/UttamPanchasara/LoginUI
 
+### widget
+
+- https://github.com/zagum/SpeechRecognitionView
+- https://github.com/zagum/Android-SwitchIcon
+- https://github.com/zagum/Android-ExpandIcon
 
 app make in android github
