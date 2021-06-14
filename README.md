@@ -150,6 +150,14 @@
 
 - https://github.com/UttamPanchasara/LoginUI
 
+### MULTI SCREEN
+
+- https://github.com/intuit/ssp
+- https://github.com/intuit/sdp
+- https://codingwithdhrumil.com/2020/06/how-to-support-different-screen-sizes-with-responsive-ui-in-android.html
+- https://medium.com/@segunfrancis/how-to-build-for-different-android-screen-sizes-using-a-single-layout-resource-file-6e71ec3d9fcc
+- https://medium.com/android-kotlin/using-scalable-dp-and-sp-in-your-design-879e1a6c4489
+
 ### widget
 
 - https://github.com/zagum/SpeechRecognitionView
