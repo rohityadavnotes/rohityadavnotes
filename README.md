@@ -153,6 +153,9 @@
 ### UI
 
 - https://github.com/UttamPanchasara/LoginUI
+https://github.com/Reyzeny/Android-Profile-UI-Design
+https://github.com/Reyzeny/PhoneNumberAuthFirebase
+https://github.com/aksht7/Android-Login-UI
 
 ### MULTI SCREEN
 
