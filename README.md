@@ -8,6 +8,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="justify">
+
 **Languages**
 Java, Kotlin
 
@@ -47,6 +49,7 @@ JUnit, Mockito, kotlinx-coroutines-test, Espresso, Jetpack Compose UI Testing
 **Version Control & CI/CD**
 Git, GitHub, GitHub Actions, Fastlane
 
+</div>
 # Connect with me
 
 
