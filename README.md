@@ -58,6 +58,33 @@
 
 </div>
 
+## 🚀 Projects
+
+<div align="justify">
+
+**All Rounder BSS** — EdTech
+Competitive exam preparation platform with live/recorded video lectures (YouTube Data API v3), mock tests, e-books, and weekly test series. **500K+ downloads**, **4.6★**, **7.85K reviews**.
+
+**Care-e-On (Rider & Driver)** — Transportation
+Ride-sharing apps built on a feature-based modular architecture (MVVM + Clean Architecture) with real-time GPS tracking via Foreground Service and Socket.IO.
+
+**ICM** — NGO / Field Data Collection
+Offline-first field data collection app integrating 125+ REST APIs and a 20-table Room database with WorkManager-powered background sync.
+
+**RAB** — B2B
+Android B2B digital catalogue app for hardware dealers with AR-based product visualization (ARCore + SceneView), reducing product returns by 25–30%.
+
+**Shail Home Automation** — IoT
+IoT home automation app controlling appliances via ESP32 + relay board, over Bluetooth (local) or MQTT/Wi-Fi (remote).
+
+</div>
+
+## 📦 Open Source Libraries
+
+<div align="justify">
+
+</div>
+
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/rohityadavsolutions](https://linkedin.com/in/rohityadavsolutions)
