@@ -8,8 +8,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Languages**
 Java, Kotlin
 
