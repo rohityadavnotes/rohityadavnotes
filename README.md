@@ -6,7 +6,33 @@
 
 </div>
 
-## Tech Stack
+## 🏆 Key Achievements
+
+<div align="justify">
+
+**▸ 500,000+ Downloads**
+
+Bootstrapped the All Rounder BSS Android application, an EdTech platform for competitive exam preparation, by integrating YouTube Data API v3 and YouTube IFrame Player API for live and recorded video lectures, while implementing mock tests, e-books, PDF resources, practice MCQs, and the All India Weekly Test Series. The app reached 500K+ downloads, earned a 4.6-star Google Play rating, and received 7.85K reviews.
+
+**▸ 30% Faster Feature Delivery**
+
+Architected the Android codebase for Care-e-On Rider and Driver apps using a feature-based modular architecture with MVVM and Clean Architecture, enabling parallel development and long-term maintainability, and reduced feature delivery time by 30%.
+
+**▸ 25–30% Reduction in Product Returns**
+
+Delivered an augmented reality (AR)-based product visualization feature for RAB on Android using ARCore and SceneView, enabling customers to visualize GLTF and GLB 3D hardware product models in their real-world environment before purchase, reducing product return rates by 25–30%.
+
+**▸ SDK Gap Eliminated**
+
+Bridged native Android and Flutter by developing custom Kotlin modules with MethodChannel and EventChannel to overcome the absence of an official Vonage Flutter SDK, enabling secure, low-latency real-time video calling in a production Flutter application.
+
+**▸ Offline-First at Scale**
+
+Engineered an offline-first architecture for ICM by integrating 125+ REST APIs, a 20-table Room database, and WorkManager-powered background synchronization, enabling field employees to continue data collection offline and automatically synchronize it when connectivity was restored.
+
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="justify">
 
@@ -38,7 +64,10 @@
 
 </div>
 
-</div>
+
+
+
+
 # Connect with me
 
 
