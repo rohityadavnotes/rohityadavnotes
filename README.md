@@ -1,10 +1,9 @@
-<h1 align="center">
-  <img src="assets/hello.gif" alt="hello-gif" height="150px">
-  <br>
-  <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/rohit-yadav-say-hello/">Rohit Yadav</a>
-</h1>
+# Hi, I'm Rohit Yadav 👋
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="260px"/>
+### Senior Mobile Engineer | Android Developer
+
+I'm a Senior Mobile Engineer with 6+ years of experience building
+Android applications using Kotlin and modern Android technologies.
 
 ### 🧐 About
 
