@@ -6,6 +6,62 @@
 
 </div>
 
+## 🛠️ Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Android Jetpack & Frameworks**
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20Views%20(XML)-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+ViewModel · LiveData · View Binding · Data Binding · Navigation · Hilt · WorkManager · Paging 3 · Room · DataStore · ML Kit · App Links · Bluetooth Classic · Bluetooth Low Energy (BLE) · IPC (AIDL, Binder)
+
+**Architecture & Patterns**
+MVVM with Clean Architecture · Feature-Based Multi-Module Architecture · Offline-First Architecture · SOLID Principles · Software Design Patterns
+
+**Asynchronous Programming**
+Coroutines · Flow · StateFlow · SharedFlow
+
+**API Technologies**
+REST APIs
+
+**Networking**
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
+OkHttp
+
+**Data Serialization**
+Gson · Moshi · Kotlinx Serialization
+
+**Image Loading**
+Coil · Glide
+
+**Firebase & Google Services**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Firebase Authentication · Cloud Firestore · Realtime Database · Firebase Cloud Messaging (FCM) · Firebase Remote Config · Firebase Analytics · Firebase Crashlytics · Google Maps Platform (Maps, Places, Geocoding, Directions, Distance Matrix)
+
+**Payments**
+Google Play Billing · Stripe SDK · Razorpay
+
+**Security**
+Android Keystore · EncryptedSharedPreferences · SQLCipher · SSL Pinning
+
+**Testing**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+Mockito · kotlinx-coroutines-test · Espresso · Jetpack Compose UI Testing
+
+**Version Control & CI/CD**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+GitHub · Fastlane
+
+
+# Connect with me
+
+
+
 
 ### 🧐 About
 
