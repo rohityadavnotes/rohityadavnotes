@@ -1,7 +1,5 @@
 # Hi, I'm Rohit Yadav 👋
 
-### Senior Mobile Engineer | Android Developer
-
 ## About Me
 
 <div align="justify">
