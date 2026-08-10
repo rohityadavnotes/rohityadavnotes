@@ -6,48 +6,37 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="justify">
 
-**Languages**
-Java, Kotlin
+- **Languages:** Java, Kotlin
 
-**Android Jetpack & Frameworks**
-Android Views (XML), Jetpack Compose, ViewModel, LiveData, View Binding, Data Binding, Navigation, Hilt, WorkManager, Paging 3, Room, DataStore, ML Kit, App Links, Bluetooth Classic, Bluetooth Low Energy (BLE), IPC (AIDL, Binder)
+- **Android Jetpack & Frameworks:** Android Views (XML), Jetpack Compose, ViewModel, LiveData, View Binding, Data Binding, Navigation, Hilt, WorkManager, Paging 3, Room, DataStore, ML Kit, App Links, Bluetooth Classic, Bluetooth Low Energy (BLE), IPC (AIDL, Binder)
 
-**Architecture & Patterns**
-MVVM with Clean Architecture, Feature-Based Multi-Module Architecture, Offline-First Architecture, SOLID Principles, Software Design Patterns
+- **Architecture & Patterns:** MVVM with Clean Architecture, Feature-Based Multi-Module Architecture, Offline-First Architecture, SOLID Principles, Software Design Patterns
 
-**Asynchronous Programming**
-Coroutines, Flow, StateFlow, SharedFlow
+- **Asynchronous Programming:** Coroutines, Flow, StateFlow, SharedFlow
 
-**API Technologies**
-REST APIs
+- **API Technologies:** REST APIs
 
-**Networking**
-Retrofit, OkHttp
+- **Networking:** Retrofit, OkHttp
 
-**Data Serialization**
-Gson, Moshi, Kotlinx Serialization
+- **Data Serialization:** Gson, Moshi, Kotlinx Serialization
 
-**Image Loading**
-Coil, Glide
+- **Image Loading:** Coil, Glide
 
-**Firebase & Google Services**
-Firebase Authentication, Cloud Firestore, Realtime Database, Firebase Cloud Messaging (FCM), Firebase Remote Config, Firebase Analytics, Firebase Crashlytics, Google Maps Platform (Maps, Places, Geocoding, Directions, Distance Matrix)
+- **Firebase & Google Services:** Firebase Authentication, Cloud Firestore, Realtime Database, Firebase Cloud Messaging (FCM), Firebase Remote Config, Firebase Analytics, Firebase Crashlytics, Google Maps Platform (Maps, Places, Geocoding, Directions, Distance Matrix)
 
-**Payments**
-Google Play Billing, Stripe SDK, Razorpay
+- **Payments:** Google Play Billing, Stripe SDK, Razorpay
 
-**Security**
-Android Keystore, EncryptedSharedPreferences, SQLCipher, SSL Pinning
+- **Security:** Android Keystore, EncryptedSharedPreferences, SQLCipher, SSL Pinning
 
-**Testing**
-JUnit, Mockito, kotlinx-coroutines-test, Espresso, Jetpack Compose UI Testing
+- **Testing:** JUnit, Mockito, kotlinx-coroutines-test, Espresso, Jetpack Compose UI Testing
 
-**Version Control & CI/CD**
-Git, GitHub, GitHub Actions, Fastlane
+- **Version Control & CI/CD:** Git, GitHub, GitHub Actions, Fastlane
+
+</div>
 
 </div>
 # Connect with me
