@@ -4,11 +4,11 @@
 
 <div align="justify">
 
-Senior Android Engineer with 6+ years of experience architecting and delivering scalable, production-grade Android applications using legacy Java/XML and modern Kotlin/Jetpack Compose. Experienced in designing maintainable architectures, mentoring developers, collaborating with cross-functional teams, and launching high-impact products, including an EdTech platform with 500K+ downloads, 7.85K reviews, and a 4.6-star Google Play rating.
+**Senior Android Engineer** with **6+ years of experience** architecting and delivering scalable, production-grade **Android applications** using legacy **Java/XML** and modern **Kotlin/Jetpack Compose**. Experienced in designing maintainable architectures, mentoring developers, collaborating with cross-functional teams, and launching high-impact products, including an EdTech platform with **500K+ downloads**, **7.85K reviews**, and a **4.6-star Google Play rating**.
 
 </div>
 
-**Senior Android Engineer** with **6+ years of experience** architecting and delivering scalable, production-grade **Android applications** using legacy **Java/XML** and modern **Kotlin/Jetpack Compose**. Experienced in designing maintainable architectures, mentoring developers, collaborating with cross-functional teams, and launching high-impact products, including an EdTech platform with **500K+ downloads**, **7.85K reviews**, and a **4.6-star Google Play rating**.
+
 
 
 ### 🧐 About
