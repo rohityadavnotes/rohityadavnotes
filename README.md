@@ -6,6 +6,10 @@
 
 </div>
 
+## 🌐 Domain Experience
+
+🔌 **IoT** &nbsp;•&nbsp; 💼 **B2B** &nbsp;•&nbsp; 🎓 **EdTech** &nbsp;•&nbsp; ❤️ **Healthcare** &nbsp;•&nbsp; 🚗 **Transportation** &nbsp;•&nbsp; 🤝 **NGO**
+
 ## 🏆 Key Achievements
 
 <div align="justify">
