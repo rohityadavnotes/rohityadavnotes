@@ -85,11 +85,9 @@ IoT home automation app controlling appliances via ESP32 + relay board, over Blu
 
 </div>
 
-## 📫 Connect with Me
+## Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/rohityadavsolutions" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/rohityadavsolutions" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://rohityadavsolutions.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:rohityadavsolutions@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18"/> &nbsp;**LinkedIn:** [linkedin.com/in/rohityadavsolutions](https://linkedin.com/in/rohityadavsolutions)
+- <img src="https://cdn.simpleicons.org/github/181717" width="18" height="18"/> &nbsp;**GitHub:** [github.com/rohityadavsolutions](https://github.com/rohityadavsolutions)
+- <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="18" height="18"/> &nbsp;**Portfolio:** [rohityadavsolutions.github.io](https://rohityadavsolutions.github.io)
+- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18"/> &nbsp;**Email:** [rohityadavsolutions@gmail.com](mailto:rohityadavsolutions@gmail.com)
